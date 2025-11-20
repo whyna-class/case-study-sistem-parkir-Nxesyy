@@ -14,8 +14,8 @@ datasource db {
 }
 
 enum jenisKendaraan {
-  RODA2
-  RODA4
+  roda2
+  roda4
 }
 
 model Parkir {
